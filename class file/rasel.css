@@ -1,0 +1,19 @@
+.one{
+	background:blue;
+	color:white;
+	padding:5px;
+	border-radius:5px;
+}
+
+.two{
+	background:yellow;
+	padding:10px;
+	border-radius:5px;
+}
+
+.three{
+	background:black;
+	padding:15px;
+	color:red;
+	border-radius:10px;
+}

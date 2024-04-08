@@ -1,0 +1,14 @@
+h4{
+	background-color:red;
+	padding:10px 20px;
+	font-size:22px;
+	
+}
+
+p{
+	background-color:navy;
+	padding:15px 25px;
+	font-size:35px;
+	color:white;
+	border-radius:20px;
+}

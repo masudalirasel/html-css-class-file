@@ -1,0 +1,50 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+.fristdv{
+	background-color:#eccc68;
+}
+
+.scounddv{
+	background-color:#70a1ff;
+}
+
+.mt{
+	background-color:#5352ed;
+	display:inline-block;
+}
+
+.mtt{
+	background-color:#5352ed;
+}
+
+.mttt{
+	background-color:red;
+}
+
+.p{
+	background-color:green;
+	margin:60px;
+	border:4px solid yellow;
+	outline:15px solid black;
+	outline-offset:30px;
+	text-align:center;
+}
+
+.m{
+	background-color:green;
+	margin:20px;
+	border:4px solid #3742fa;
+	text-align:justify;
+	text-decoration:underline;
+	letter-spacing:5px;
+}
+.n{
+	background-color:#f5f6fa;
+	margin:20px;
+	border:4px solid #ff6b81;
+	color:red;
+	text-shadow:20px 0px 20px #000;
+}

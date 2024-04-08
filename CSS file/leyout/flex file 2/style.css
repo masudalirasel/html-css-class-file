@@ -1,0 +1,68 @@
+*{
+	margin:0;
+	padding:0;
+}
+.mt1{
+	background-color:#3498db;
+	height:80px;
+	width:100%;
+	text-align:center;
+}
+
+.secound_container{
+	display:flex;
+}
+
+
+.mt2{
+	background-color:#f1c40f;
+	width:400px;
+	height:300px;
+	text-align:center;
+}
+
+.mt3{
+	background-color:#e67e22;
+	width:400px;
+	height:300px;
+	text-align:center;
+}
+
+.mt4{
+	background-color:#8e44ad;
+	width:1520px;
+	height:450px;
+	text-align:center;
+}
+
+.mt5{
+	background-color:#16a085;
+	width:1520px;
+	height:150px;
+	text-align:center;
+}
+
+
+.choto_container{
+	display:flex;
+}
+.mt6{
+	background-color:#2ecc71;
+	width:80%;
+	height:100px;
+	text-align:center;
+}
+
+.mt7{
+	background-color:#D6A2E8;
+	width:20%;
+	height:100px;
+	text-align:center;
+}
+
+.mt8{
+	background-color:#F97F51;
+	height:80px;
+	width:100%;
+	text-align:center;
+}

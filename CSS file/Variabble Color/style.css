@@ -1,0 +1,13 @@
+:root{
+	--bgcolour:green;
+	--textcolour:blue;
+}
+
+.div{
+	background-color:var(--bgcolour);
+	width:100%;
+	height:50px;
+	margin-bottom:20px;
+	text-align:center;
+	color:var(--textcolour)
+}

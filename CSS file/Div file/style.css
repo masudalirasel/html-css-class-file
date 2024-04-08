@@ -1,0 +1,50 @@
+/* ata amader frist div */
+.fristdiv{
+	background-color:green;
+	padding:10px;
+    width:400px;
+	height:auto;
+	color:white;
+	font-size:18px;
+	border-radius:30px;
+	text-align:center;
+	letter-spacing:1px;
+	word-spacing:5px;
+	margin-bottom:20px;
+}
+
+
+/* ata scound div */
+.scounddiv{
+	background-color:yellow;
+	padding:10px;
+	width:350px;
+	color:black;
+	font-size:15px;
+	border-radius:25px;
+	text-align:center;
+	
+}
+.thirddiv{
+	background-color:tomato;
+	padding:10px;
+	width:300px;
+	color:black;
+	font-size:10px;
+	border-radius:10px;
+	text-align:center;
+	word-spacing:5px;
+}
+
+.fristdiv h2{
+	color:#44bd32;
+}
+.fristdiv p{
+	color:#4bcffa;
+}
+.scounddiv p{
+	color:red;
+}
+.thirddiv p{
+	color:white;
+}
